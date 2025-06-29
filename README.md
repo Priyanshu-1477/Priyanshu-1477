@@ -53,8 +53,8 @@ Currently focused on system-level development, GUI apps, and Linux automation wi
 ## 📫 Reach Me
 
 - 💬 Open to collaboration, ideas, and mentorship
-- 📧 [Add your email here or link to socials]
-- 🧠 DM me if you're building cool Linux tools or automations
+- 📧 prmahatha@gmail.com
+- 🧠 DM me if you're building Linux tools or automations
 
 ---
 
