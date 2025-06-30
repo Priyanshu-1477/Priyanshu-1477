@@ -12,7 +12,7 @@ Currently focused on system-level development, GUI apps, and Linux automation wi
 
 ## 🚀 What I'm Doing Now
 
-- 🧰 Building a **custom app launcher** for Linux (like Rofi/Spotlight).
+- 🧰 Building a **custom app launcher** and for Linux (like Rofi/Spotlight) & also learning about **building API** .
 - 🎱 Finished a **pool auto-aim GUI** using PyQt5 + OpenCV.
 - 🌱 Diving deeper into **Linux utilities**, **automation**, and **custom desktop tools**.
 - 📘 Writing **detailed Notion notes** to truly understand what I build.
