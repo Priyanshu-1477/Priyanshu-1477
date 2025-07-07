@@ -22,11 +22,20 @@ Currently focused on system-level development, GUI apps, and Linux automation wi
 ## 💡 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=c%2B%2B)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-333?style=flat-square&logo=qt)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat-square&logo=tailwind-css)
+![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat-square&logo=gnubash)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
 
 ---
 
