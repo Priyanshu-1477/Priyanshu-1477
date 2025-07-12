@@ -59,6 +59,20 @@ Currently focused on system-level development, GUI apps, and Linux automation wi
 
 ---
 
+## 📈 GitHub Metrics
+
+<!-- Automatically updated every 2 hours by GitHub Actions -->
+
+<p align="center">
+  <img src="https://github.com/Priyanshu-1477/Priyanshu-1477/actions/workflows/github-metrics.yml/badge.svg" alt="Metrics Workflow Status" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-1477/Priyanshu-1477/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</p>
+
+---
+
 ## 📫 Reach Me
 
 - 💬 Open to collaboration, ideas, and mentorship
