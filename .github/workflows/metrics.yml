@@ -2,16 +2,69 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
-  workflow_dispatch:     # allows manual triggering
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:      # Allows manual trigger from Actions tab
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Required
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, languages
-          template: classic
+
+          # Base sections
+          base: header, activity, community, repositories, metadata
+
+          # Config
           config_timezone: Asia/Kolkata
+          config_order: |
+            base.header
+            base.activity
+            base.community
+            base.repositories
+            base.metadata
+            languages
+            isocalendar
+            habits
+            stars
+            topics
+            lines
+            achievements
+            stargazers
+            followup
+
+          # Visual Theme
+          template: terminal  # Try "classic", "terminal", "markdown", or "repositories"
+
+          # Plugins
+          plugin_languages: yes
+          plugin_languages.ignored: html, css  # Optional: ignore less-interesting langs
+          plugin_languages.limit: 8
+          plugin_languages.threshold: 2%
+
+          plugin_isocalendar: yes  # Weekly activity calendar
+
+          plugin_habits: yes
+          plugin_habits.from: 200  # Days to include
+          plugin_habits.days: 14
+          plugin_habits.charts_type: graph
+
+          plugin_lines: yes  # Lines of code changes
+
+          plugin_topics: yes  # Topics from your repos
+          plugin_topics.sort: stars
+          plugin_topics.limit: 15
+
+          plugin_achievements: yes
+          plugin_achievements.threshold: C
+          plugin_achievements.display: compact
+
+          plugin_stars: yes  # Repos you starred
+          plugin_stars.limit: 5
+
+          plugin_stargazers: yes  # People who starred you
+          plugin_followup: yes    # Last issues/PRs you interacted with
+
