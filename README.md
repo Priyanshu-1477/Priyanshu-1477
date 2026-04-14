@@ -107,7 +107,3 @@ A custom shell to understand command execution and process control.
 - prmahatha@gmail.com  
 
 ---
-
-## Note
-
-This profile represents a shift toward **serious systems and backend engineering** — with an emphasis on building tools that reflect real understanding of how software interacts with the machine.
