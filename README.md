@@ -80,17 +80,20 @@ Actively seeking internship opportunities in **systems engineering**, **backend 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuraj&show_icons=true&theme=tokyonight&hide=contribs)
+[![GitHub followers](https://img.shields.io/github/followers/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477)
+[![GitHub stars](https://img.shields.io/github/stars/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477?tab=repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuraj&layout=compact&theme=tokyonight)
+**View my work:** [github.com/Priyanshu-1477](https://github.com/Priyanshu-1477)
+
+**Latest repositories & contribution stats available on profile.**
 
 ---
 
 ## Connect
 
-📧 **Email:** [your-email@domain.com](mailto:your-email@domain.com)  
+📧 **Email:** [prmahatha@gmail.com](mailto:prmahatha@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/priyanshuraj](https://linkedin.com/in/priyanshuraj)  
 
 Open to collaborations on systems projects, backend infrastructure work, or deep technical discussions.
