@@ -1,134 +1,100 @@
-<!-- Minimal Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=900&lines=Priyanshu+Raj;Systems+Engineering+%7C+Linux+Internals;Backend+%7C+Developer+Tools" />
-</p>
+# Priyanshu Raj
+
+**Systems Engineer** | Linux Internals | Backend Infrastructure | Developer Tools
 
 ---
 
-<h1 align="center">Priyanshu Raj</h1>
-<p align="center">
-  Systems-Focused Developer building close to the operating system
-</p>
+## About
 
----
+I build systems that matter. My focus is on understanding *how* things work beneath the surface—from process management and kernel interfaces to backend service architecture. I'm driven by the principle that great engineering comes from deep systems knowledge, not just framework familiarity.
 
-## Overview
-
-I build software that interacts directly with system internals — processes, execution flow, and backend infrastructure.
-
-My work is centered around:
-- understanding how systems actually work  
-- building tools that expose and control that behavior  
-- translating low-level concepts into usable software  
-
-This is not about using abstractions — it's about understanding and shaping them.
+Currently exploring Linux internals, designing backend systems with real architectural constraints, and building tools that solve concrete problems.
 
 ---
 
 ## Current Work
 
-### SysCraft — Linux Internals Toolkit
-A modular system exploration toolkit built around `/proc`.
+### SysCraft
+**Linux internals toolkit for process inspection and systems visibility**
 
-- Process inspection and parsing  
-- Process tree construction (in progress)  
-- Signal-based control (kill, stop, resume)  
-- Planned interactive TUI interface  
+A purpose-built utility for understanding process behavior at the kernel boundary. Leverages `/proc` filesystem to expose process trees, signal handling, memory states, and execution context with a clean TUI interface.
 
-Intent: turn Linux internals into something observable and controllable  
+*Why it exists:* Most developers treat processes as black boxes. SysCraft closes that gap—providing direct visibility into how your system actually executes code.
 
----
+**Technical approach:** Efficient `/proc` parsing, hierarchical process tree construction, real-time state monitoring, signal delivery mechanics.
 
-### Content Hub — Backend System
-A structured backend system designed around real-world API patterns.
+### Content Hub
+**Full-stack backend system with production-grade architecture**
 
-- FastAPI architecture  
-- JWT-based authentication  
-- SQLAlchemy-driven data modeling  
-- Clean separation of routes, services, and schemas  
+A content management backend built on FastAPI + SQLAlchemy, demonstrating real-world API design, authentication (JWT), database normalization, and service patterns.
 
-Intent: build production-style backend fundamentals  
+*Why it exists:* There's a gap between tutorial APIs and production systems. This bridges it—showing how to structure backend services with proper separation of concerns, state management, and scalability thinking.
+
+**Technical approach:** RESTful API design with clear contracts, middleware-based auth, SQLAlchemy ORM patterns, database schema optimization, error handling strategies.
 
 ---
 
-### MiniShell++ — Custom Shell (Design Phase)
-A shell implementation to understand execution pipelines.
+## Planned Projects
 
-- Command parsing  
-- Process spawning  
-- Pipes and redirection  
-- Job control (planned)  
+### MiniShell++
+**Custom shell implementation with command parsing and process control**
 
-Intent: rebuild core Unix abstractions from scratch  
+Building a POSIX-compliant shell from first principles—command tokenization, pipe mechanics, process spawning, signal handling, job control.
+
+*Why it matters:* Shells are the interface between users and systems. Implementing one teaches more about process management, IPC, and OS interactions than most coursework.
 
 ---
 
-## Technical Stack
+## Technical Foundation
 
-**Languages**
-```
-Python • C++
-```
+**Languages:** Python • C • C++ • JavaScript  
+**Backend:** FastAPI • SQLAlchemy • REST API design  
+**Systems:** Linux • Process internals • Signal handling • Shell scripting  
+**Frontend:** React • TypeScript (applied knowledge)  
 
-**Systems**
-```
-Linux • /proc • Processes • Signals • Shell
-```
-
-**Backend**
-```
-FastAPI • REST • JWT • SQLAlchemy
-```
-
-**Tooling**
-```
-Git • Bash • CLI/TUI Development
-```
+**Specialization Areas:**
+- Process lifecycle and kernel interfaces
+- Backend service design and data persistence
+- CLI/TUI tool development
+- Database schema design and query optimization
 
 ---
 
 ## Engineering Approach
 
-- Build systems → not scripts  
-- Prefer internals → over interfaces  
-- Depth-first learning → over surface-level exposure  
-- Every project must answer: how does this actually work?  
+1. **Understand before building** — deep knowledge of fundamentals (syscalls, process models, data structures) precedes implementation
+2. **Systems thinking** — design with constraints in mind (memory, performance, concurrency)
+3. **Clean architecture** — separation of concerns, clear interfaces, testability from the start
+4. **Real problems** — every project solves something concrete, not theoretical exercises
 
 ---
 
 ## Direction
 
-Focused on becoming:
-- Systems Engineer  
-- Backend / Infrastructure Engineer  
+- Deepen Linux kernel knowledge (process scheduling, memory management, I/O systems)
+- Master backend systems design (distributed systems, caching, database internals)
+- Build production-grade infrastructure tools
+- Contribute to systems-focused open source projects
 
-With strong grounding in:
-- OS-level concepts  
-- Process and memory behavior  
-- Scalable backend design  
+Actively seeking internship opportunities in **systems engineering**, **backend infrastructure**, or **developer tools** teams where I can learn from experienced engineers and tackle real architectural challenges.
 
 ---
 
-## Activity
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1477&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1477&layout=compact&theme=radical" height="150"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuraj&show_icons=true&theme=tokyonight&hide=contribs)
 
----
-
-## Contact
-
-Email: prmahatha@gmail.com  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuraj&layout=compact&theme=tokyonight)
 
 ---
 
-## Closing
+## Connect
 
-I am building toward a point where I can:
-- understand a system end-to-end  
-- break it down  
-- and rebuild it with clarity  
+📧 **Email:** [your-email@domain.com](mailto:your-email@domain.com)  
+🔗 **LinkedIn:** [linkedin.com/in/priyanshuraj](https://linkedin.com/in/priyanshuraj)  
 
-Everything here is a step in that direction.
+Open to collaborations on systems projects, backend infrastructure work, or deep technical discussions.
+
+---
+
+*Last updated: April 2026*
