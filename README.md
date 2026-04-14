@@ -1,108 +1,134 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=1000&lines=Priyanshu+Raj;Systems+Engineering+%7C+Linux+Internals;Building+Tools+Close+to+the+OS" />
-
+<!-- Minimal Banner -->
 <p align="center">
-Systems-Focused Developer • Linux Internals • Backend Systems
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=900&lines=Priyanshu+Raj;Systems+Engineering+%7C+Linux+Internals;Backend+%7C+Developer+Tools" />
 </p>
 
 ---
 
-## Profile
-
-I focus on building software that operates **close to the operating system** — working with processes, system interfaces, and backend infrastructure.
-
-Rather than experimenting broadly, I concentrate on **understanding systems deeply** and building tools that reflect that understanding.
-
-Current trajectory:
-- Systems programming (Linux internals)
-- Backend engineering (APIs, data flow, architecture)
-- Developer tools (CLI/TUI utilities)
+<h1 align="center">Priyanshu Raj</h1>
+<p align="center">
+  Systems-Focused Developer building close to the operating system
+</p>
 
 ---
 
-## What I’m Building
+## Overview
 
-### SysCraft
-A modular toolkit for exploring Linux internals through code.
+I build software that interacts directly with system internals — processes, execution flow, and backend infrastructure.
 
-- Reads and interprets `/proc` for process insights  
-- Evolving into an interactive TUI system monitor  
-- Extensible architecture for system components (processes, memory, filesystem)
+My work is centered around:
+- understanding how systems actually work  
+- building tools that expose and control that behavior  
+- translating low-level concepts into usable software  
 
-**Focus:** translating OS concepts into usable tools
-
----
-
-### Content Hub
-A backend-driven system designed to handle structured content and user workflows.
-
-- FastAPI-based architecture  
-- JWT authentication and secure routing  
-- Database modeling with SQLAlchemy  
-- Focus on clean API design and scalability  
-
-**Focus:** production-style backend engineering
+This is not about using abstractions — it's about understanding and shaping them.
 
 ---
 
-### MiniShell++ (in design)
-A custom shell to understand command execution and process control.
+## Current Work
 
-- Command parsing and execution pipeline  
-- Pipes, redirection, and process handling  
-- Exploration of Unix abstractions  
+### SysCraft — Linux Internals Toolkit
+A modular system exploration toolkit built around `/proc`.
 
-**Focus:** learning systems by rebuilding them
+- Process inspection and parsing  
+- Process tree construction (in progress)  
+- Signal-based control (kill, stop, resume)  
+- Planned interactive TUI interface  
+
+Intent: turn Linux internals into something observable and controllable  
 
 ---
 
-## Technical Foundation
+### Content Hub — Backend System
+A structured backend system designed around real-world API patterns.
+
+- FastAPI architecture  
+- JWT-based authentication  
+- SQLAlchemy-driven data modeling  
+- Clean separation of routes, services, and schemas  
+
+Intent: build production-style backend fundamentals  
+
+---
+
+### MiniShell++ — Custom Shell (Design Phase)
+A shell implementation to understand execution pipelines.
+
+- Command parsing  
+- Process spawning  
+- Pipes and redirection  
+- Job control (planned)  
+
+Intent: rebuild core Unix abstractions from scratch  
+
+---
+
+## Technical Stack
 
 **Languages**
-- Python
-- C
-- C++
-- Javascript
+```
+Python • C++
+```
 
 **Systems**
-- Linux (daily driver, system-level usage)  
-- Process inspection (`/proc`)  
-- Signals, process lifecycle  
-- Shell and scripting  
+```
+Linux • /proc • Processes • Signals • Shell
+```
 
 **Backend**
-- FastAPI  
-- REST design  
-- JWT authentication  
-- SQLAlchemy  
+```
+FastAPI • REST • JWT • SQLAlchemy
+```
 
-**Tools**
-- Git  
-- Bash  
-- CLI/TUI development  
+**Tooling**
+```
+Git • Bash • CLI/TUI Development
+```
 
 ---
 
-## How I Work
+## Engineering Approach
 
-- I build to understand — not just to complete  
-- I prefer depth over surface-level breadth  
-- I break systems down and reconstruct them  
-- I optimize for clarity, not complexity  
+- Build systems → not scripts  
+- Prefer internals → over interfaces  
+- Depth-first learning → over surface-level exposure  
+- Every project must answer: how does this actually work?  
+
+---
+
+## Direction
+
+Focused on becoming:
+- Systems Engineer  
+- Backend / Infrastructure Engineer  
+
+With strong grounding in:
+- OS-level concepts  
+- Process and memory behavior  
+- Scalable backend design  
 
 ---
 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1477&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1477&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1477&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1477&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## Contact
 
-- prmahatha@gmail.com  
+Email: prmahatha@gmail.com  
 
 ---
+
+## Closing
+
+I am building toward a point where I can:
+- understand a system end-to-end  
+- break it down  
+- and rebuild it with clarity  
+
+Everything here is a step in that direction.
