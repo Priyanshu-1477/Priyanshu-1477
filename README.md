@@ -1,124 +1,99 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=1000&lines=Priyanshu+Raj;Systems+Engineer+%7C+Linux+Internals;Building+Tools+That+Understand+the+Machine" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=1000&lines=Priyanshu+Raj;Systems+Engineering+%7C+Linux+Internals;Building+Tools+Close+to+the+OS" />
 
 ---
 
 <h2 align="center">Priyanshu Raj</h2>
 <p align="center">
-Systems Developer • Linux Internals • Backend Engineering
+Systems-Focused Developer • Linux Internals • Backend Systems
 </p>
 
 ---
 
-## About
+## Profile
 
-I am a Computer Science undergraduate focused on **systems programming, Linux internals, and backend engineering**.
+I focus on building software that operates **close to the operating system** — working with processes, system interfaces, and backend infrastructure.
 
-I build tools that interact closely with the operating system — exploring how processes, memory, and system components actually work under the hood.
+Rather than experimenting broadly, I concentrate on **understanding systems deeply** and building tools that reflect that understanding.
 
-My goal is to become a **strong systems engineer** capable of building scalable, low-level, and performance-aware software.
-
----
-
-## Current Focus
-
-- Building **SysCraft** — a modular Linux internals toolkit  
-- Developing **backend systems with FastAPI + SQLAlchemy**
-- Strengthening understanding of **processes, signals, memory, and /proc**
-- Designing **CLI/TUI-based developer tools**
+Current trajectory:
+- Systems programming (Linux internals)
+- Backend engineering (APIs, data flow, architecture)
+- Developer tools (CLI/TUI utilities)
 
 ---
 
-## Technical Skills
+## What I’m Building
 
-### Languages
-- Python (primary)
-- C++
+### SysCraft
+A modular toolkit for exploring Linux internals through code.
 
-### Backend & APIs
-- FastAPI
-- REST API design
-- JWT authentication
-- SQLAlchemy (learning in depth)
+- Reads and interprets `/proc` for process insights  
+- Evolving into an interactive TUI system monitor  
+- Extensible architecture for system components (processes, memory, filesystem)
 
-### Systems & Linux
-- Linux (daily driver, advanced usage)
-- Process management (`/proc`, signals)
-- Bash scripting & automation
-- CLI/TUI tool development
-
-### Frontend (Working Knowledge)
-- React + TypeScript
-- Tailwind CSS
+**Focus:** translating OS concepts into usable tools
 
 ---
 
-## Core Projects
+### Content Hub
+A backend-driven system designed to handle structured content and user workflows.
 
-### SysCraft — Linux Internals Toolkit (Ongoing)
-**Tech:** Python, Linux `/proc`, TUI  
+- FastAPI-based architecture  
+- JWT authentication and secure routing  
+- Database modeling with SQLAlchemy  
+- Focus on clean API design and scalability  
 
-A modular toolkit to explore and interact with Linux system internals.
-
-**Features (built / in progress):**
-- Process explorer using `/proc`
-- Process tree visualization
-- Signal handling (kill, stop, resume)
-- Planned: memory insights, filesystem explorer, interactive TUI
-
-**Why this matters:**
-- Deep understanding of OS internals
-- Moves beyond scripting → into system-level engineering
+**Focus:** production-style backend engineering
 
 ---
 
-### Content Hub — Full Stack Backend System (Ongoing)
-**Tech:** FastAPI, JWT, SQLAlchemy, React  
+### MiniShell++ (in design)
+A custom shell to understand command execution and process control.
 
-A scalable content platform focusing on backend architecture and real-world system design.
+- Command parsing and execution pipeline  
+- Pipes, redirection, and process handling  
+- Exploration of Unix abstractions  
 
-**Focus Areas:**
-- Authentication & authorization (JWT)
-- API design and structuring
-- Database modeling and ORM usage
-- Handling uploads and data flow
-
-**Why this matters:**
-- Builds strong backend fundamentals
-- Aligns with production-level system design
+**Focus:** learning systems by rebuilding them
 
 ---
 
-### MiniShell++ — Custom Linux Shell (Planned / Early Stage)
-**Tech:** C++ / Python  
+## Technical Foundation
 
-A custom interactive shell to understand command parsing and process execution.
+**Languages**
+- Python  
+- C++  
 
-**Planned Features:**
-- Command parsing and execution
-- Pipes and redirection
-- Job control and process handling
+**Systems**
+- Linux (daily driver, system-level usage)  
+- Process inspection (`/proc`)  
+- Signals, process lifecycle  
+- Shell and scripting  
 
-**Why this matters:**
-- Direct exposure to OS-level abstractions
-- Core systems programming project
+**Backend**
+- FastAPI  
+- REST design  
+- JWT authentication  
+- SQLAlchemy  
 
----
-
-## Engineering Direction
-
-I am intentionally focusing on:
-
-- Systems programming
-- Backend infrastructure
-- Linux-based tooling
-- Performance-aware software design
-
-I prefer building **fewer but deeper projects** that demonstrate real understanding.
+**Tools**
+- Git  
+- Bash  
+- CLI/TUI development  
 
 ---
 
-## GitHub Activity
+## How I Work
+
+- I build to understand — not just to complete  
+- I prefer depth over surface-level breadth  
+- I break systems down and reconstruct them  
+- I optimize for clarity, not complexity  
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1477&show_icons=true&theme=radical" height="160"/>
@@ -129,7 +104,10 @@ I prefer building **fewer but deeper projects** that demonstrate real understand
 
 ## Contact
 
-- Email: prmahatha@gmail.com  
-- Open to collaboration in systems, backend, and Linux tooling
+- prmahatha@gmail.com  
 
 ---
+
+## Note
+
+This profile represents a shift toward **serious systems and backend engineering** — with an emphasis on building tools that reflect real understanding of how software interacts with the machine.
