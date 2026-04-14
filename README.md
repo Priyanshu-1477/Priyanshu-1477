@@ -82,13 +82,11 @@ Actively seeking internship opportunities in **systems engineering**, **backend 
 
 ## GitHub Activity
 
-[![GitHub followers](https://img.shields.io/github/followers/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477)
-[![GitHub stars](https://img.shields.io/github/stars/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477?tab=repositories)
-[Activity](file:///home/priyanshu_mht/Downloads/github_stats_widget.html)
+**View my interactive stats dashboard:**
 
-**View my work:** [github.com/Priyanshu-1477](https://github.com/Priyanshu-1477)
+🔗 **[GitHub Stats Dashboard](https://priyanshu-1477.github.io/github_stats_widget.html)** — Real-time repos, followers, languages, and activity
 
-**Latest repositories & contribution stats available on profile.**
+Or follow my work directly: [github.com/Priyanshu-1477](https://github.com/Priyanshu-1477)
 
 ---
 
