@@ -84,6 +84,7 @@ Actively seeking internship opportunities in **systems engineering**, **backend 
 
 [![GitHub followers](https://img.shields.io/github/followers/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477)
 [![GitHub stars](https://img.shields.io/github/stars/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477?tab=repositories)
+[Activity](file:///home/priyanshu_mht/Downloads/github_stats_widget.html)
 
 **View my work:** [github.com/Priyanshu-1477](https://github.com/Priyanshu-1477)
 
@@ -94,7 +95,7 @@ Actively seeking internship opportunities in **systems engineering**, **backend 
 ## Connect
 
 📧 **Email:** [prmahatha@gmail.com](mailto:prmahatha@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/priyanshuraj](https://linkedin.com/in/priyanshuraj)  
+🔗 **LinkedIn:** [Priyanshu Raj](https://www.linkedin.com/in/priyanshu-raj-a5538333b/)  
 
 Open to collaborations on systems projects, backend infrastructure work, or deep technical discussions.
 
