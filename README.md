@@ -59,8 +59,10 @@ A custom shell to understand command execution and process control.
 ## Technical Foundation
 
 **Languages**
-- Python  
-- C++  
+- Python
+- C
+- C++
+- Javascript
 
 **Systems**
 - Linux (daily driver, system-level usage)  
