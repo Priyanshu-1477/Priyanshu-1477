@@ -1,56 +1,124 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Priyanshu+Raj;Python+Lover+%7C+Linux+Power+User+%7C+System+Tool+Builder;Learning+by+building+real-life+projects!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=1000&lines=Priyanshu+Raj;Systems+Engineer+%7C+Linux+Internals;Building+Tools+That+Understand+the+Machine" />
 
 ---
 
-<h2 align="center">🧠 Curious | 💻 Builder | 🇮🇳 From India</h2>
-
-I'm Priyanshu Raj — a passionate developer who loves making smart and beautiful tools that actually solve real problems.  
-Currently focused on system-level development, GUI apps, and Linux automation with Python.
-
----
-
-## 🚀 What I'm Doing Now
-
-- 🧰 Building a **custom app launcher** and for Linux (like Rofi/Spotlight) & also learning about **building API** .
-- 🎱 Finished a **pool auto-aim GUI** using PyQt5 + OpenCV.
-- 🌱 Diving deeper into **Linux utilities**, **automation**, and **custom desktop tools**.
-- 📘 Writing **detailed Notion notes** to truly understand what I build.
+<h2 align="center">Priyanshu Raj</h2>
+<p align="center">
+Systems Developer • Linux Internals • Backend Engineering
+</p>
 
 ---
 
-## 💡 Tech Stack
+## About
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=c%2B%2B)
-![PyQt5](https://img.shields.io/badge/-PyQt5-333?style=flat-square&logo=qt)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat-square&logo=tailwind-css)
-![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat-square&logo=gnubash)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+I am a Computer Science undergraduate focused on **systems programming, Linux internals, and backend engineering**.
+
+I build tools that interact closely with the operating system — exploring how processes, memory, and system components actually work under the hood.
+
+My goal is to become a **strong systems engineer** capable of building scalable, low-level, and performance-aware software.
 
 ---
 
-## 📦 Projects
+## Current Focus
 
-### 🎯 [Pool Auto-Aim GUI](https://github.com/Priyanshu-1477/Pool_Auto_Aim_GUI)
-> Visualizes the best possible pool shots using geometry, PyQt5 GUI sliders, and OpenCV aiming lines.  
-> ➕ Live controls | 🧠 Angle detection | 🎨 Beautifully interactive
-
-### ⚡ Minilaunch (Coming Soon!)
-> Keyboard-based app launcher for Linux — lightweight, responsive, and personal.
+- Building **SysCraft** — a modular Linux internals toolkit  
+- Developing **backend systems with FastAPI + SQLAlchemy**
+- Strengthening understanding of **processes, signals, memory, and /proc**
+- Designing **CLI/TUI-based developer tools**
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
+
+### Languages
+- Python (primary)
+- C++
+
+### Backend & APIs
+- FastAPI
+- REST API design
+- JWT authentication
+- SQLAlchemy (learning in depth)
+
+### Systems & Linux
+- Linux (daily driver, advanced usage)
+- Process management (`/proc`, signals)
+- Bash scripting & automation
+- CLI/TUI tool development
+
+### Frontend (Working Knowledge)
+- React + TypeScript
+- Tailwind CSS
+
+---
+
+## Core Projects
+
+### SysCraft — Linux Internals Toolkit (Ongoing)
+**Tech:** Python, Linux `/proc`, TUI  
+
+A modular toolkit to explore and interact with Linux system internals.
+
+**Features (built / in progress):**
+- Process explorer using `/proc`
+- Process tree visualization
+- Signal handling (kill, stop, resume)
+- Planned: memory insights, filesystem explorer, interactive TUI
+
+**Why this matters:**
+- Deep understanding of OS internals
+- Moves beyond scripting → into system-level engineering
+
+---
+
+### Content Hub — Full Stack Backend System (Ongoing)
+**Tech:** FastAPI, JWT, SQLAlchemy, React  
+
+A scalable content platform focusing on backend architecture and real-world system design.
+
+**Focus Areas:**
+- Authentication & authorization (JWT)
+- API design and structuring
+- Database modeling and ORM usage
+- Handling uploads and data flow
+
+**Why this matters:**
+- Builds strong backend fundamentals
+- Aligns with production-level system design
+
+---
+
+### MiniShell++ — Custom Linux Shell (Planned / Early Stage)
+**Tech:** C++ / Python  
+
+A custom interactive shell to understand command parsing and process execution.
+
+**Planned Features:**
+- Command parsing and execution
+- Pipes and redirection
+- Job control and process handling
+
+**Why this matters:**
+- Direct exposure to OS-level abstractions
+- Core systems programming project
+
+---
+
+## Engineering Direction
+
+I am intentionally focusing on:
+
+- Systems programming
+- Backend infrastructure
+- Linux-based tooling
+- Performance-aware software design
+
+I prefer building **fewer but deeper projects** that demonstrate real understanding.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1477&show_icons=true&theme=radical" height="160"/>
@@ -59,19 +127,9 @@ Currently focused on system-level development, GUI apps, and Linux automation wi
 
 ---
 
+## Contact
 
-## 📫 Reach Me
-
-- 💬 Open to collaboration, ideas, and mentorship
-- 📧 prmahatha@gmail.com
-- 🧠 DM me if you're building Linux tools or automations
+- Email: prmahatha@gmail.com  
+- Open to collaboration in systems, backend, and Linux tooling
 
 ---
-
-> _“I don’t just write code — I build things that matter, and I learn deeply while doing it.”_ ✨
-
----
-<!---
-Priyanshu-1477/Priyanshu-1477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
