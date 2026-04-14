@@ -79,6 +79,10 @@ Building a POSIX-compliant shell from first principles—command tokenization, p
 Actively seeking internship opportunities in **systems engineering**, **backend infrastructure**, or **developer tools** teams where I can learn from experienced engineers and tackle real architectural challenges.
 
 ---
+## Quick Stats
+
+[![GitHub followers](https://img.shields.io/github/followers/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477)
+[![GitHub stars](https://img.shields.io/github/stars/Priyanshu-1477?style=social&logo=github)](https://github.com/Priyanshu-1477?tab=repositories)
 
 ## GitHub Activity
 
