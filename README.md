@@ -3,77 +3,72 @@
 
 <div align="center">
 
-<img
-  width="100%"
-  alt="Priyanshu Raj — Backend, Systems, AI"
-  src="https://capsule-render.vercel.app/api?type=venom&amp;height=260&amp;color=0:22d3ee,50:8b5cf6,100:f472b6&amp;text=PRIYANSHU%20RAJ&amp;fontSize=64&amp;fontColor=ffffff&amp;stroke=22d3ee&amp;strokeWidth=1&amp;animation=fadeIn&amp;fontAlignY=48&amp;desc=BREAK%20THINGS.%20TRACE%20EVERYTHING.%20BUILD%20BETTER.&amp;descSize=15&amp;descAlignY=68"
-/>
+<img width="100%" alt="Priyanshu Raj — backend engineering, distributed systems, and Linux" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:312e81,100:06b6d4&amp;height=250&amp;section=header&amp;text=PRIYANSHU%20RAJ&amp;fontSize=66&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BACKEND%20%2F%20DISTRIBUTED%20SYSTEMS%20%2F%20LINUX&amp;descSize=17&amp;descAlignY=60" />
 
 <a href="https://github.com/Priyanshu-1477">
-<img alt="Building backends. Distributing work. Investigating failures. Asking why it broke." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=Building+backends.+Distributing+work.;Making+AI+agents+investigate+failures.;Following+the+request+down+the+stack.;If+it+broke%2C+I+want+to+know+why." />
+<img alt="Backend development, distributed systems, Linux, and applied AI." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=Backend+development+%26+distributed+systems;Linux%2C+networking+%26+applied+AI;Learning+through+practical+projects" />
 </a>
 
 **CSE @ BIT Mesra · Class of 2028 · India**
 
-<a href="https://www.linkedin.com/in/priyanshu-raj-a5538333b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="mailto:prmahatha@gmail.com"><img alt="Email Priyanshu" src="https://img.shields.io/badge/DROP_A_MESSAGE-8B5CF6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="https://github.com/Priyanshu-1477?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/OPEN_THE_LAB-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-raj-a5538333b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:prmahatha@gmail.com"><img alt="Email Priyanshu" src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/Priyanshu-1477?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/REPOSITORIES-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br /><br />
 
-**The endpoint works. Cool. What happens when the worker dies?**
+**Learning through projects, from APIs to the systems behind them.**
 
 </div>
 
 ## 🧑‍💻 `whoami`
 
-Hey, I'm **Priyanshu** — a B.Tech CSE student at **Birla Institute of Technology, Mesra**, usually somewhere between a backend service, a Linux terminal, and a question that starts with *“but how does that actually work?”*
+I'm **Priyanshu Raj**, a B.Tech CSE student at **Birla Institute of Technology, Mesra**, graduating in **2028**. I enjoy building backend applications and understanding how the systems behind them work.
 
-I build practical software to understand the machinery behind it: **APIs, workers, queues, databases, networks, and AI agents that can use tools**. I'm especially interested in what happens when these pieces have to cooperate—and when they stop cooperating.
+My projects involve **APIs, background tasks, databases, and applied AI**. I use them to learn about service communication, task execution, data persistence, and debugging.
 
-My interests run through **backend engineering, distributed systems, Linux, networking, cybersecurity, and applied AI/ML**. I like projects with enough moving parts to force real design decisions, then understanding them well enough to explain every important one.
+I'm particularly interested in **backend engineering, distributed systems, Linux, networking, cybersecurity, and AI/ML**. I prefer learning by implementing something, testing it, and working through the parts I don't understand yet.
 
 ```yaml
 priyanshu:
   education: B.Tech CSE, BIT Mesra
   graduating: 2028
   operating_system: Zorin OS / Linux
-  home_base: backend + distributed systems
-  side_quests: networking, cybersecurity, AI/ML
+  focus: backend engineering + distributed systems
+  also_interested_in: networking, cybersecurity, AI/ML
   learning_style: build it → inspect it → understand it
-  favorite_question: "What happens when this fails?"
-  looking_for: internships + interesting engineering collaborations
+  open_to: internships + project collaborations
 ```
 
 <div align="center">
-<img alt="Build, break, trace, fix, repeat" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2200&amp;pause=600&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=48&amp;lines=%24+build+%26%26+break+%26%26+trace+%26%26+fix;%3E+repeat+until+the+design+makes+sense." />
+<img alt="Build, test, understand, repeat" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2200&amp;pause=600&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=48&amp;lines=%24+build+%26%26+test+%26%26+learn;%3E+one+project+at+a+time." />
 </div>
 
-## ⚡ The current lab
+## ⚡ Current projects
 
 ### 🕵️ Backend Incident Investigator
 
-**An AI agent with a debugging job.** · In progress
+**AI-assisted backend troubleshooting** · In progress
 
 I'm building an agent to investigate backend failures by gathering evidence and deciding what to check next.
 
 The intended workflow: inspect service health, read application logs, check configuration and connectivity, explain the likely cause with evidence, propose a fix, and verify recovery after an approved action. Tool calls and their outcomes should leave a visible execution trail.
 
-**Demo target:** an API fails because its database hostname is wrong—even though PostgreSQL itself is healthy. The interesting part is getting the agent to establish that distinction.
+**Planned demo:** identify an incorrect database hostname in an API configuration, distinguish it from a database outage, and verify the proposed correction.
 
 `Python` `FastAPI` `Docker` `PostgreSQL` `LLM tool calling`
 
-[**Enter the investigation →**](https://github.com/Priyanshu-1477/backend-incident-investigator)
+[**View repository →**](https://github.com/Priyanshu-1477/backend-incident-investigator)
 
 ---
 
 ### ⚙️ Distributed Automation Platform
 
-**Give the workers work. Know when they disappear.** · Ongoing build
+**Distributed background task execution** · Ongoing build
 
 An orchestrator–worker architecture with worker registration, heartbeat monitoring, and distributed task assignment. Celery and Redis handle asynchronous execution and retries; PostgreSQL keeps persistent state.
 
-This is where I explore the questions behind background jobs: who owns a task, how workers report their health, and how execution state survives beyond a single process.
+The project helps me understand worker coordination, task state, retries, and failure handling across multiple processes.
 
 `FastAPI` `Celery` `Redis` `PostgreSQL` `Docker`
 
@@ -81,7 +76,7 @@ This is where I explore the questions behind background jobs: who owns a task, h
 
 ### 🧠 Text-to-SQL
 
-**Human question in. Database query out.** · Exploratory project
+**Natural-language database queries** · Exploratory project
 
 Exploring how natural-language questions can become SQL queries. I'm interested in the engineering around the model: schema context, query correctness, and how to evaluate whether the result actually answers the question.
 
@@ -93,21 +88,21 @@ Exploring how natural-language questions can become SQL queries. I'm interested 
 
 ### 🕸️ KGGen News Pilot
 
-**Different headlines. Same event. What happens to the graph?** · Research pilot
+**News extraction and knowledge-graph evaluation** · Research pilot
 
 A news-to-knowledge-graph experiment investigating extraction, clustering, duplicate information, and their implications for question answering.
 
-The pilot corpus contains **16 reviewed articles across three events**. The extraction and evaluation work is ongoing; conclusions will come from completed runs and evidence.
+The pilot corpus contains **16 reviewed articles across three events**. Extraction and evaluation are ongoing.
 
 `Python` `KGGen` `Knowledge graphs` `Deduplication` `QA evaluation`
 
 <div align="center">
 
-[**Browse the rest of the lab ↗**](https://github.com/Priyanshu-1477?tab=repositories)
+[**More repositories ↗**](https://github.com/Priyanshu-1477?tab=repositories)
 
 </div>
 
-## 🛠️ The toolbox
+## 🛠️ Technologies
 
 <div align="center">
 
@@ -117,7 +112,7 @@ The pilot corpus contains **16 reviewed articles across three events**. The extr
 
 <br />
 
-| Where I'm working | What I use |
+| Area | Technologies |
 | :--- | :--- |
 | Backend & APIs | FastAPI · Django · Flask · Node.js · Express · REST |
 | State & background work | PostgreSQL · MongoDB · Redis · Celery |
@@ -125,18 +120,18 @@ The pilot corpus contains **16 reviewed articles across three events**. The extr
 | AI, retrieval & vision | BGE-M3 · FAISS · OpenCV · model training & evaluation |
 | Interfaces | React · JavaScript · TypeScript |
 
-## 🔬 What keeps me curious
+## 🔬 Currently learning
 
 - **Distributed systems:** task ownership, retries, worker health, and failure recovery.
 - **Linux & networking:** processes, sockets, service communication, and what the OS is doing underneath.
 - **Backend infrastructure:** database behavior, caching, concurrency, and observability.
 - **Agentic AI:** tool selection, evidence gathering, and checking whether an action actually helped.
 
-## 🤝 Let's build something worth debugging
+## 🤝 Get in touch
 
-I'm looking for **internship opportunities in backend engineering, infrastructure, and developer tools**. I'd also like to collaborate on systems projects or practical AI tools with clear engineering problems.
+I'm open to **internships in backend engineering, infrastructure, and developer tools**, as well as collaborations on systems and applied AI projects.
 
-Got a backend problem, an interesting system, or a suspiciously silent worker? Let's talk.
+Feel free to reach out about a project, an opportunity, or a shared technical interest.
 
 <div align="center">
 
@@ -145,7 +140,7 @@ Got a backend problem, an interesting system, or a suspiciously silent worker? L
 
 <br /><br />
 
-<img alt="Still learning. Still building. Still asking why." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=2800&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Still+learning.+Still+building.+Still+asking+why.;See+you+in+the+logs." />
+<img alt="Learning, building, and sharing along the way." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=2800&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Learning%2C+building%2C+and+sharing+along+the+way.;Thanks+for+stopping+by." />
 
 <img width="100%" alt="Animated purple and cyan footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:7c3aed,100:050816&amp;height=130&amp;section=footer&amp;animation=twinkling" />
 
